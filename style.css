@@ -19,7 +19,7 @@ body {
 #header {
   width: 100%;
   height: 100vh;
-  background-image: url(Images/avatar.png);
+  background-image: url(Images/colorbg.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -70,6 +70,7 @@ nav ul li a:hover::after {
 .header-text {
   margin-top: 20%;
   font-size: 30px;
+  color: #ff004f;
 }
 
 .header-text h1 {
@@ -78,7 +79,7 @@ nav ul li a:hover::after {
 }
 
 .header-text h1 span {
-  color: #ff004f;
+  color: white;
 }
 
 /* <!-- =========== ABOUT ================= --> */
