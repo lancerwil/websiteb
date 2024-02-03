@@ -380,9 +380,9 @@ nav .fa-bars {
 }
 
 @media only screen and (max-width: 600px) {
-  #header {
+  /* #header {
     background-image: url(Images/phone-background.png);
-  }
+  } */
   .header-text {
     margin-top: 100%;
     font-size: 16px;
